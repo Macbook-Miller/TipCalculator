@@ -1,6 +1,6 @@
 A simple SwiftUI app to quickly calculate tips and split bills between people.
 
-📱 Features  
+📱 **Features**  
 	•	Enter the bill amount.  
 	•	Choose a tip percentage.  
 	•	See the calculated tip and total instantly.  
