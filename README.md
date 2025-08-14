@@ -24,4 +24,4 @@ Installation
 
 📸 Screenshots
 
-<img width="1179" height="2556" alt="IMG_1988" src="https://github.com/user-attachments/assets/fcd14e73-a561-4b4c-9e1e-a5bdb8292ce0" />
+<img width="400" height="600" alt="IMG_1988" src="https://github.com/user-attachments/assets/fcd14e73-a561-4b4c-9e1e-a5bdb8292ce0" />
