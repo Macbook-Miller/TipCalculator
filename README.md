@@ -7,21 +7,21 @@ A simple SwiftUI app to quickly calculate tips and split bills between people.
 	•	Split the bill between any number of people.  
 	•	Clean, minimal UI using SwiftUI.  
   
-🛠 Built With  
+🛠 **Built With**  
 	•	Swift  
 	•	SwiftUI  
   
-🚀 Getting Started  
+🚀 **Getting Started**  
   
-Requirements  
-	•	macOS with Xcode 15 or later  
-	•	iOS 17.6+ simulator or device  
+  ***Requirements***  
+    	•	macOS with Xcode 15 or later  
+	    •	iOS 17.6+ simulator or device  
   
-Installation  
-  1.	Clone the repo: git clone https://github.com/Macbook-Miller/TipCalculator.git  
-  2.	Open TipCalculator.xcodeproj in Xcode.  
-  3.	Build and run on your chosen simulator or device.  
+  ***Installation***  
+        1.	Clone the repo: git clone https://github.com/Macbook-Miller/TipCalculator.git  
+        2.	Open TipCalculator.xcodeproj in Xcode.  
+        3.	Build and run on your chosen simulator or device.  
   
-📸 Screenshots  
+📸 **Screenshots**  
   
 <img width="320" alt="IMG_1988" src="https://github.com/user-attachments/assets/fcd14e73-a561-4b4c-9e1e-a5bdb8292ce0" />
